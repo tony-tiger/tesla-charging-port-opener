@@ -1,5 +1,5 @@
 # tesla-charging-port-opener
-Automate Tesla charging port opener
+Tesla charging port opener
 
 Increased range using a YARD Stick One Radio Dongle. Automate the opening of Tesla charging ports. 
 
